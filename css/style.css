@@ -66,5 +66,74 @@
     cursor: pointer;
 }
 
+.forgot-password-link{
+   padding-left: 220px;
+   font-size: 16px;
+   font-weight: 400px;
+}
+
+.login-button{
+    width: 382px;
+    height: 60px;
+    top: 321px;
+    left:24px;
+    border-radius: 20px;
+    color: #1849A9;
+    cursor: pointer;
+
+}
+
+.sign-up-accounts{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.4px;
+    
+}
+
+a{
+    font-size: 16px;
+    font-weight : 400;
+    line-height: 26.4px;
+    text-decoration: none;
+}
+
+.or{
+   text-align: center;
+   padding: 40px;
+    
+}
+
+.sign-up{
+    text-align: center;
+    border: 1px solid rgba(71, 84, 103, 0.15);;
+    border-radius: 20px;
+    padding: 17px 0;
+    
+}
+
+.sign-up a{
+    color: black;
+    cursor: pointer;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 165.02%
+}
+
+.apple-sign-up{
+    text-align: center;
+    border: 1px solid rgba(71, 84, 103, 0.15);;
+    border-radius: 20px;
+    padding: 17px 0;
+
+}
+
+.apple-sign-up a{
+    color: black;
+    cursor: pointer;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 165.02%
+
+}
 
 
