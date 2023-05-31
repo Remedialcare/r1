@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+.login-header{
+    width: 138px;
+    height: 38px;
+    top: 57px;
+    left: 146px;
+    text-align: center;
+}
+
+.email{
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 20px;
+    border: 1px solid rgba(71, 84, 103, 0.15);
+    height: 60px;
+}
+
+.login-input {
+    border: none;
+    background: none;
+}
+
+.login-input:focus {
+    background: none !important;
+    border: none;
+    box-shadow: none;
+}
+
+.mail-icon {
+    display: flex;
+    align-items: center;
+    padding: 0 21px;
+}
+
+.password{
+    background: rgba(217, 217, 217, 0.15);
+    border-radius: 20px;
+    border: 1px solid rgba(71, 84, 103, 0.15);
+    height: 60px;
+}
+
+.login-password:focus {
+    border: none;
+    background: none;
+    box-shadow: none;
+}
+
+.password-icon{
+    display: flex;
+    align-items: center;
+    padding: 0 21px;
+   
+}
+
+.valid-mail{
+    display: flex;
+    align-items: center;
+    padding: 0 21px;
+}
+
+.password-reveal{
+    display: flex;
+    align-items: center;
+    padding: 0 21px;
+    cursor: pointer;
+}
+
+
+
