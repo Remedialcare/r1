@@ -1,11 +1,15 @@
+
 * {
     box-sizing: border-box;
 }
+
+*{
+    font-family: 'DM Sans', sans-serif;
+}
+
 .login-header{
-    width: 138px;
     height: 38px;
     top: 57px;
-    left: 146px;
     text-align: center;
     font-style: normal;
     font-weight: 500;
@@ -80,7 +84,7 @@
 }
 
 .forgot-password-link{
-   padding-left: 220px;
+    text-align: right;
    font-size: 16px;
    font-weight: 400px;
    font-style: normal;
@@ -89,8 +93,7 @@
 }
 
 .login-button{
-    padding: 14px 0
-    width: 382px;
+    padding: 14px 0;
     height: 60px;
     top: 321px;
     left:24px;
@@ -100,7 +103,6 @@
     line-height: 165.02%;
     text-align: center;
     border-radius: 20px;
-    background-color: #1849A9;
     cursor: pointer;
 
 }
@@ -163,6 +165,12 @@ a{
     font-size: 16px;
     line-height: 165.02%
 
+}
+
+
+
+    
+  
 }
 
 
