@@ -7,6 +7,12 @@
     font-family: 'DM Sans', sans-serif;
 }
 
+body{
+    overflow-x: hidden;
+}
+
+
+
 .login-header{
     height: 38px;
     top: 57px;
@@ -141,6 +147,9 @@ a{
 
     
 }
+
+
+
 
 .sign-up a{
     color: black;
