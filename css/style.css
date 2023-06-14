@@ -146,10 +146,13 @@ a{
     border: 1px solid rgba(71, 84, 103, 0.15);;
     border-radius: 20px;
     padding: 17px 0;
-
-    
 }
 
+.sign-up:focus{
+    background: none;
+    border: none;
+    box-shadow: none;
+}
 
 
 
@@ -174,8 +177,12 @@ a{
     cursor: pointer;
     font-style: normal;
     font-size: 16px;
-    line-height: 165.02%
+}
 
+.apple-sign-up:focus {
+    background: none !important;
+    border: none;
+    box-shadow: none;
 }
 
 
