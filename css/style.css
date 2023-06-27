@@ -280,6 +280,63 @@ a{
 
 }
 
+.card{
+    vertical-align: center;
+    width: 90%;
+    height: 400px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.modal-checkmark{
+    margin-top: 70px;
+    color: #F2F1F1;
+    align: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.welcome{
+    font-weight: 500;
+    size: 15px;
+    line-height: 24.75px;
+    color: #1849A9;
+    text-align: center;
+}
+
+.successful{
+    font-weight: 400;
+    size: 16px;
+    line-height: 24.83px;
+    text-align: center;
+    color: #475467;
+
+}
+
+.done{
+    font-weight: 700;
+    size: 24px;
+    line-height: 39.61px;
+    color: #1849A9;
+    text-align: center;
+
+}
+
+.registered{
+    font-weight: 400;
+    size: 16px;
+    line-height: 24.83px;
+    text-align: center;
+    color: #475467;
+
+}
+
+
+
+
+
+
+
 
 
 
