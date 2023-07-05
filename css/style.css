@@ -467,6 +467,23 @@ a{
     z-index: +10;
    
  }
+
+ .emergency{
+    background: #FFFFFF;
+    color: #1849A9;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    border: 1px #1849A9 solid;
+    border-radius: 5px;
+    padding: 1em;
+    margin-bottom: 10px;
+
+ }
+
+ .emergency-clicked{
+    border-radius: 0px;
+ }
  
 
 
