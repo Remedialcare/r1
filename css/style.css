@@ -486,15 +486,30 @@ a{
  }
 
 
- input, textarea{
-    width: 330px;
-    height: 350px;
+textarea{
     border-radius: 10px;
     padding: 10px;
     outline: 0;
     font-size: 15px;
     background-color: rgba(250, 250, 250, 1);
     border-color: rgba(250, 250, 250, 1);
+    overflow: auto;
+}
+
+.read-story{
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    border-radius: 20px;
+    padding: 30px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.comment{
+    border: 1px solid
 }
  
 
